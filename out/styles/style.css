@@ -5,6 +5,22 @@ a:link {
 body {
   padding-top: 60px;
   background: url("/images/background.png");
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+#color #e34c00 {
+  font-family: "Lucida Sans", Lucida, Verdana, sans-serif;
 }
 table tfoot th,
 table tbody th {
