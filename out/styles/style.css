@@ -53,6 +53,7 @@ table tbody th {
 }
 ul.social {
   list-style-type: none;
+  padding-left: 0px;
 }
 ul.social li {
   display: inline;
