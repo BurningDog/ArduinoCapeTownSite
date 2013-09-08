@@ -1,86 +1,19 @@
-a,
-a:link {
-  cursor: pointer;
-}
-body {
-  padding-top: 60px;
-  background: url("/images/background.png");
-  font-family: Georgia, "Times New Roman", Times, serif;
-}
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-.h1,
-.h2,
-.h3,
-.h4,
-.h5,
-.h6,
-#color #e34c00 {
-  font-family: "Lucida Sans", Lucida, Verdana, sans-serif;
-}
-table tfoot th,
-table tbody th {
-  border-top: 1px solid #ddd;
-}
-.navbar {
-  min-height: 80px;
-}
-.navbar-brand {
-  text-indent: -9999px;
-  background-image: url("/images/logo.png");
-  width: 246px;
-  height: 80px;
-}
-.navbar-inverse {
-  background-color: #09949b;
-  border-color: #d6f4f5;
-}
-.navbar-inverse .navbar-brand {
-  color: #fff;
-}
-.navbar-inverse .navbar-brand:hover {
-  color: #d6f4f5;
-}
-.navbar-inverse .navbar-brand:focus {
-  color: #d6f4f5;
-}
-.jumbotron {
-  background-color: #d6f4f5;
-}
-ul.social {
-  list-style-type: none;
-  padding-left: 0px;
-}
-ul.social li {
-  display: inline;
-  height: 20px;
-}
-ul.social li a {
-  display: block;
-  float: left;
-  text-indent: -9999px;
-  height: 40px;
-  width: 40px;
-  margin-right: 10px;
-  padding: 0;
-}
-.social a {
-  background-position: 50% 50%;
-  background-repeat: no-repeat no-repeat;
-}
-.social a#arduino {
-  background-image: url("/images/icons/icon_arduino.png");
-}
-.social a#facebook {
-  background-image: url("/images/icons/icon_facebook.png");
-}
-.social a#google {
-  background-image: url("/images/icons/icon_google_plus.png");
-}
-.social a#twitter {
-  background-image: url("/images/icons/icon_twitter.png");
-}
+a,a:link{cursor:pointer}
+body{padding-top:60px;background:url("/images/background.png");font-family:Georgia,"Times New Roman",Times,serif}
+h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6,#color #e34c00{font-family:"Lucida Sans",Lucida,Verdana,sans-serif}
+table tfoot th,table tbody th{border-top:1px solid #ddd}
+.navbar{min-height:80px}
+.navbar-brand{text-indent:-9999px;background-image:url("/images/logo.png");width:246px;height:80px}
+.navbar-inverse{background-color:#09949b;border-color:#d6f4f5;}
+.navbar-inverse .navbar-brand{color:#fff}
+.navbar-inverse .navbar-brand:hover{color:#d6f4f5}
+.navbar-inverse .navbar-brand:focus{color:#d6f4f5}
+.jumbotron{background-color:#d6f4f5}
+ul.social{list-style-type:none;padding-left:0;}
+ul.social li{display:inline;height:20px;}
+ul.social li a{display:block;float:left;text-indent:-9999px;height:40px;width:40px;margin-right:10px;padding:0}
+.social a{background-position:50% 50%;background-repeat:no-repeat no-repeat}
+.social a#arduino{background-image:url("/images/icons/icon_arduino.png")}
+.social a#facebook{background-image:url("/images/icons/icon_facebook.png")}
+.social a#google{background-image:url("/images/icons/icon_google_plus.png")}
+.social a#twitter{background-image:url("/images/icons/icon_twitter.png")}
